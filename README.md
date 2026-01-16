@@ -19,9 +19,9 @@ Welcome to the official **Nancy Shoes** website — a brand dedicated to elegant
 - **CSS3** – For styling and layout
 - **Images** – High-quality heels images from Pexels
 
-## 📁 Project Structure
+## - Project Structure
 
-## 📌 How to View the shoe website locally
+## -- How to View the shoe website locally
 
 
  https://nancy-githinji.github.io/Nancy-shoes/
