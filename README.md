@@ -12,14 +12,16 @@ Welcome to the official **Nancy Shoes** website — a brand dedicated to elegant
   - Collection / Gallery
   - About Nancy
   - Contact information
+  - 
 
-## 🛠 Technologies Used
+## - Technologies Used
 
 - **HTML5** – For the website structure
 - **CSS3** – For styling and layout
 - **Images** – High-quality heels images from Pexels
 
 ## - Project Structure
+
 
 ## -- How to View the shoe website locally
 
