@@ -23,9 +23,6 @@ Welcome to the official **Nancy Shoes** website — a brand dedicated to elegant
 
 ## 📌 How to View Locally
 
-1. Clone the repository:
-
-```bash
-git clone https://github.com/Nancy Githinji/nancy-shoes.git
 
 
+https://nancy-githinji.github.io/Nancy-shoes/
