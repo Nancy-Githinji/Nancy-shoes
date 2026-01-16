@@ -1,0 +1,131 @@
+/* Reset some default styles */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Roboto', sans-serif;
+}
+
+/* Body styles */
+body {
+    background-color: #fff;
+    color: #3d0000; /* dark burgundy text */
+}
+
+/* Header */
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px 50px;
+    background-color: #800020; /* burgundy */
+    color: white;
+}
+
+header .logo {
+    font-size: 28px;
+    font-weight: 700;
+    font-family: 'Playfair Display', serif;
+}
+
+header nav ul {
+    list-style: none;
+    display: flex;
+    gap: 20px;
+}
+
+header nav a {
+    color: white;
+    text-decoration: none;
+    font-weight: 500;
+}
+
+/* Hero section */
+.hero {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 60vh;
+    text-align: center;
+    background-color: #f8f8f8;
+    color: #800020;
+}
+
+.hero h1 {
+    font-size: 48px;
+    margin-bottom: 10px;
+}
+
+.hero p {
+    font-size: 20px;
+}
+
+/* Collection section */
+#collection {
+    padding: 50px;
+    text-align: center;
+}
+
+#collection h2 {
+    font-size: 36px;
+    margin-bottom: 40px;
+    color: #800020;
+}
+
+.gallery {
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+    flex-wrap: wrap;
+}
+
+.shoe img {
+    width: 250px;
+    height: 350px;
+    object-fit: cover;
+    border-radius: 10px;
+    transition: transform 0.3s;
+}
+
+.shoe img:hover {
+    transform: scale(1.05);
+}
+
+.shoe h3 {
+    margin-top: 10px;
+    font-size: 18px;
+}
+
+/* About section */
+#about {
+    padding: 50px;
+    background-color: #f8f8f8;
+    text-align: center;
+}
+
+#about h2 {
+    font-size: 36px;
+    color: #800020;
+    margin-bottom: 20px;
+}
+
+/* Contact section */
+#contact {
+    padding: 50px;
+    text-align: center;
+}
+
+#contact h2 {
+    font-size: 36px;
+    color: #800020;
+    margin-bottom: 20px;
+}
+
+/* Footer */
+footer {
+    text-align: center;
+    padding: 20px;
+    background-color: #800020;
+    color: white;
+}
