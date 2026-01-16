@@ -21,8 +21,7 @@ Welcome to the official **Nancy Shoes** website — a brand dedicated to elegant
 
 ## 📁 Project Structure
 
-## 📌 How to View Locally
+## 📌 How to View the shoe website locally
 
 
-
-https://nancy-githinji.github.io/Nancy-shoes/
+ https://nancy-githinji.github.io/Nancy-shoes/
